@@ -8,6 +8,7 @@ class ThemeleafdomeApplicationTests {
 
     @Test
     void contextLoads() {
+        System.out.println('hahahhahahah');
     }
 
 }
